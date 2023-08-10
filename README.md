@@ -7,7 +7,7 @@
  # <p align="center"> Hey There!, I am Younes </p>
 
 - 👨‍💻 I’m currently working as a Full-stack Developer and softwer engineer.
-- 🔭 I’m currently working on <a href="https://github.com/Anchenni/gestiondestock" > stock management project</a>
+- 🔭 I’m currently working on <a href="https://github.com/younes271/webSiteEcom/tree/master" > Web site E-Commerce</a>
 - 🌱 I’m currently learning `New library`,`script`,`blockchain`,`webserver` in python.
 - 🏠 I’m currently living at sale, Morocco
 
@@ -28,10 +28,12 @@
                                                                                                                        
 <p align="center">
                  <br> <br> 
-<img src="https://user-images.githubusercontent.com/53188622/154057106-4ebe0e1b-e969-48d4-8657-b9dd2116c228.png" width="50">
-<img src="https://user-images.githubusercontent.com/53188622/154057202-50da70bf-f2e7-4e32-bf29-3ad895177a81.png" width="50">
-<img src="https://user-images.githubusercontent.com/53188622/154057288-706e0a19-5b9d-4a7c-b45f-7b57921f3afe.png" width="50">                                         <img src="https://user-images.githubusercontent.com/53188622/154057309-8a944eef-ac81-4180-8101-64ce3f119298.png" width="50">
-<img src="https://user-images.githubusercontent.com/53188622/154057331-54774248-bc5a-42ab-b875-f17920974bce.png" width="50">                                         </p>
+<img src="https://readme-components.vercel.app/api?component=logo&logo=react" width="50">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=215732" width="50">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=ede84e" width="50">                                
+<img src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=050505" width="50">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=495aad" width="50">                                         
+</p>
 
 # <p align="center"> Github Stats </p>
 
